@@ -1,0 +1,20 @@
+README
+------
+bmp2txt is a very simple bitmap to text converter. The usage is very simple:
+
+bmp2txt file.bmp
+
+The text will be send to the standard output. If you want to write the
+text into a file then simply type:
+
+bmp2txt file.bmp > output.txt
+
+You can find some example bitmaps in the directory 'examples'.
+
+See http://www.eggdrop.ch/projects/bmp2txt/ for updates.
+
+You can contact me via e-mail (tom@eggdrop.ch) or ICQ (166514901).
+Don't forget to visit my site http://www.eggdrop.ch/.
+
+Have a lot of fun!
+

@@ -1,0 +1,16 @@
+INSTALL
+-------
+
+bmp2txt was tested under the following platform:
+- i386: Linux 2.4.20 (Debian 3.0)
+
+bmp2txt should compile on every ANSI C compiler. If not then write to me at
+tom@eggdrop.ch
+
+Just type 'make' to compile, 'make install' as root to install it and
+'make clean' to clean unnecessary binaries.
+
+Read README before using this program.
+
+To remove bmp2txt type as root 'make uninstall'.
+
